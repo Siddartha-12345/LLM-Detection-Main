@@ -7,6 +7,7 @@ The project uses a decoupled architecture that separates the static web frontend
 > **Deployment status:** The Flask backend is deployed on Render at `https://llm-detection-api.onrender.com`. The frontend is being configured for a separate Render Static Site. EC2 hosts the inference services.
 
 ---
+Application : https://llm-detection-main-a7d0.onrender.com
 
 ## Table of Contents
 
